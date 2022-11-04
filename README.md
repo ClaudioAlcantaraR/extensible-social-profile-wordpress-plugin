@@ -13,3 +13,7 @@ If you want to install this plugin in your wordpress site, make sure to use just
 If you need to add or remove a new profile, you can do it from the mu-plugins folder. 
 
 I have added an example of how to add, remove and extend the plugin.
+
+## Overview
+
+![](extensible-social-profile-1.png)
