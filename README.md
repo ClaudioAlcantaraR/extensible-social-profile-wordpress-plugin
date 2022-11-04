@@ -16,4 +16,4 @@ I have added an example of how to add, remove and extend the plugin.
 
 ## Overview
 
-![](extensible-social-profile-1.png)
+![](extensible-social-profile-1.PNG)
